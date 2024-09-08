@@ -1,9 +1,18 @@
+<br />
+<img align="left" alt="MatthieuFurcy Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatthieuFurcy&theme=dracula&show_icons=true&hide_border=true" />
+
+
+<a href="https://github.com/MatthieuFurcy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuFurcy&theme=dracula">
+</a>
+
+
 <p align="center" style="font-size: 24px;"> Hi there 👋, Matthieu Furcy talking, I'm a young apprentice developper 🐧 interested in web & software, I'm preparing projects for the future 🚀, I'm using the following technologies : </p>
 <br />
 
 <div align="center">
  <a href="">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cs,php,mysql,bash,heroku,vscode,bots,git,linux,raspberrypi&theme=light">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cs,cpp,mysql,vscode,bots,git,linux,raspberrypi&theme=light">
 </a>
 </div>
 <br />
