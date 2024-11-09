@@ -12,7 +12,7 @@
 
 <div align="center">
  <a href="">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,cpp,mysql,git,linux,raspberrypi&theme=light">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,mysql,git,linux,raspberrypi&theme=light">
 </a>
 </div>
 <br />
